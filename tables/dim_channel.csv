@@ -1,0 +1,6 @@
+channel_key,channel_name,channel_type,is_paid
+1,Meta,Paid Social,True
+2,Google,Paid Search,True
+3,TikTok,Paid Social,True
+4,Snapchat,Paid Social,True
+5,Organic/Direct,Unpaid,False
