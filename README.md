@@ -19,6 +19,15 @@ For this Project I used Claude to generate a synthetic five-year dataset for a f
 * **Ad spend** &mdash; The company should increase its share of ad spend to Google and decrease its share of spend from TikTok. TikTok was previously the best performing paid channel, and Google was the worst (see report pages Channel Economics and Ad Spend). Recent results show the situation has flipped, and action needs to be taken: 
 
     * Ad spend as a % of revenue continues to fall as organic/direct's share of revenue continues to increase. When looking only at paid channels however, ad spend as a % of revenue has ticked up slightly YoY for the very first time (from 25% in 2024 to 26% in 2025).
+   
+   <br>
+    
+    <div align="center">
+    <img src="screenshots/Ad_Spend_gif.gif" style="max-width: 100%; height: auto;" alt="App_Spend_gif">
+    </div>   
+   
+   <br>
+   
     * In 2025 Google's ROAS was the highest at 4.6x vs TikTok's 2.9x.
     * On top of this, Google's ROAS and conversion rate are increasing YoY (+9.7%, +3.4%) while TikTok's ROAS and conversion rate are decreasing YoY (-13.2%, -8.8%).
     * TikTok's CAC has grown quickly from $24 to $54, which is now just slightly below other paid channels (Google's CAC is $59).
