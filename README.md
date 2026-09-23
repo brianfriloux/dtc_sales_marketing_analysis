@@ -1,7 +1,7 @@
 # Sales & Marketing Analysis - Fictional DTC Athletic Apparel Company
 
 ## Overview
-For this Project I used Claude to generate a synthetic five-year dataset for a fictional direct-to-consumer athletic apparel company &mdash; covering sales, marketing spend, and customer behavior. I then used SQL and Power BI to analyze business performance and develop data-driven recommendations.
+For this project I used Claude to generate a synthetic five-year dataset for a fictional direct-to-consumer athletic apparel company &mdash; covering sales, marketing spend, and customer behavior. I then used SQL and Power BI to analyze business performance and develop data-driven recommendations.
 
 *See preview of report pages below. See the .pbix file in the repo to interact with the visuals.*
 
